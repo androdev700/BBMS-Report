@@ -1,0 +1,93 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citeauthoryear{Anand}{Anand}{2015}]{bbcarticle}
+Anand, A. (2015).
+\newblock ``{Blood for sale: India's illegal 'red market'"}.
+\newblock \url{https://www.bbc.com/news/business-30273994}.
+\newblock [Online; accessed 16-April-2019].
+
+\bibitem[\protect\citeauthoryear{Ayusharma0698}{Ayusharma0698}{2018}]{gfg_nosql}
+Ayusharma0698 (2018).
+\newblock ``{Introduction to NoSQL"}.
+\newblock \url{https://www.geeksforgeeks.org/introduction-to-nosql/}.
+\newblock [Online; accessed 16-April-2019].
+
+\bibitem[\protect\citeauthoryear{Ceta}{Ceta}{2018}]{uml_ref}
+Ceta, N. (2018).
+\newblock ``{All You Need to Know About UML Diagrams"}.
+\newblock \url{https://tallyfy.com/uml-diagram/}.
+\newblock [Online; accessed 16-April-2019].
+
+\bibitem[\protect\citeauthoryear{Graham}{Graham}{2018}]{testing_book}
+Graham, D. (2018).
+\newblock {\em Foundations of Software Testing}.
+\newblock Thompson, 3rf edition edition.
+
+\bibitem[\protect\citeauthoryear{Jr.}{Jr.}{2012}]{sdlc_book}
+Jr., V. M.~F. (2012).
+\newblock {\em The Ultimate Guide to the SDLC}.
+\newblock FrontLine, 1st edition edition.
+
+\bibitem[\protect\citeauthoryear{Mathur}{Mathur}{2008}]{handwritingalgobook}
+Mathur, S. (2008).
+\newblock ``Offline handwriting recognition using genetic algorithm”.
+
+\bibitem[\protect\citeauthoryear{Millar}{Millar}{2018}]{data_managemenet_life_cycle}
+Millar, K. (2018).
+\newblock {\em Data Management Life Cycle"}.
+\newblock McGraw-Hill, 1st edition edition.
+
+\bibitem[\protect\citeauthoryear{MongoDB}{MongoDB}{2019}]{mongodb}
+MongoDB (2019).
+\newblock ``{MongoDB Manual"}.
+\newblock \url{https://docs.mongodb.com/manual/tutorial/getting-started/}.
+\newblock [Online; accessed 16-April-2019].
+
+\bibitem[\protect\citeauthoryear{Naik}{Naik}{2013}]{concept_of_database_mngmt}
+Naik, S. (2013).
+\newblock {\em Concepts of Database Management Systems}.
+\newblock Pearson India, 7th edition edition.
+
+\bibitem[\protect\citeauthoryear{NodeJS}{NodeJS}{2019}]{nodejs}
+NodeJS (2019).
+\newblock ``{NodeJS Docs"}.
+\newblock \url{https://nodejs.org/en/docs/}.
+\newblock [Online; accessed 16-April-2019].
+
+\bibitem[\protect\citeauthoryear{Proto.io}{Proto.io}{2017}]{medium_design_process}
+Proto.io (2017).
+\newblock ``{Why Wireframes Are Important in the Design Process."}.
+\newblock \url{https://link.medium.com/vcQizFe7YV}.
+\newblock [Online; accessed 16-April-2019].
+
+\bibitem[\protect\citeauthoryear{ReactJS}{ReactJS}{2019}]{reactjs}
+ReactJS (2019).
+\newblock ``{ReactJS Docs"}.
+\newblock \url{https://reactjs.org/docs/getting-started.html}.
+\newblock [Online; accessed 16-April-2019].
+
+\bibitem[\protect\citeauthoryear{RedCross}{RedCross}{2019}]{redcross}
+RedCross (2019).
+\newblock ``{What Happens to Donated Blood"}.
+\newblock \url{http://fw.to/CRqd40b}.
+\newblock [Online; accessed 16-April-2019].
+
+\bibitem[\protect\citeauthoryear{Vyas}{Vyas}{2018}]{boxdetectionalgo}
+Vyas, K. (2018).
+\newblock ``{A Box detection algorithm for any image containing boxes."}.
+\newblock \url{https://link.medium.com/CtKT4OwToV}.
+\newblock [Online; accessed 16-April-2019].
+
+\bibitem[\protect\citeauthoryear{Wikipedia}{Wikipedia}{2018}]{wiki_system_design}
+Wikipedia (2018).
+\newblock ``{Systems design"}.
+\newblock \url{https://en.wikipedia.org/wiki/Systems_design}.
+\newblock [Online; accessed 16-April-2019].
+
+\bibitem[\protect\citeauthoryear{Wikipedia}{Wikipedia}{2019}]{wiki_wireframe}
+Wikipedia (2019).
+\newblock ``{Website wireframe"}.
+\newblock \url{https://en.wikipedia.org/wiki/Website_wireframe}.
+\newblock [Online; accessed 16-April-2019].
+
+\end{thebibliography}
