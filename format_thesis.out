@@ -12,60 +12,61 @@
 \BOOKMARK [2][-]{subsection.1.2.3}{On the basis of sites over which network is distributed}{section.1.2}% 12
 \BOOKMARK [1][-]{section.1.3}{Blood Bank Inventory Management}{chapter.1}% 13
 \BOOKMARK [1][-]{section.1.4}{Importance of shift}{chapter.1}% 14
-\BOOKMARK [0][-]{chapter.2}{LITERATURE SURVEY}{}% 15
-\BOOKMARK [1][-]{section.2.1}{Blood for sale: India\220s illegal \217red market\220}{chapter.2}% 16
-\BOOKMARK [1][-]{section.2.2}{Database Lifecycle}{chapter.2}% 17
-\BOOKMARK [1][-]{section.2.3}{Concepts of Database Management Systems}{chapter.2}% 18
-\BOOKMARK [1][-]{section.2.4}{The Ultimate Guide to SDLC}{chapter.2}% 19
-\BOOKMARK [1][-]{section.2.5}{ReactJS}{chapter.2}% 20
-\BOOKMARK [1][-]{section.2.6}{What Happens to Donated Blood}{chapter.2}% 21
-\BOOKMARK [1][-]{section.2.7}{MongoDB}{chapter.2}% 22
-\BOOKMARK [1][-]{section.2.8}{Foundations of Software Testing}{chapter.2}% 23
-\BOOKMARK [1][-]{section.2.9}{Box Detection Algorithm}{chapter.2}% 24
-\BOOKMARK [1][-]{section.2.10}{Offline Handwriting Recognition Using a Generic Algorithm}{chapter.2}% 25
-\BOOKMARK [0][-]{chapter.3}{System Analysis}{}% 26
-\BOOKMARK [1][-]{section.3.1}{Problem Definition}{chapter.3}% 27
-\BOOKMARK [1][-]{section.3.2}{Proposed System}{chapter.3}% 28
-\BOOKMARK [2][-]{subsection.3.2.1}{Advantages of Proposed System}{section.3.2}% 29
-\BOOKMARK [1][-]{section.3.3}{Requirements}{chapter.3}% 30
-\BOOKMARK [2][-]{subsection.3.3.1}{Hardware Requirements}{section.3.3}% 31
-\BOOKMARK [2][-]{subsection.3.3.2}{Software Requirements}{section.3.3}% 32
-\BOOKMARK [1][-]{section.3.4}{Issues in existing methodology}{chapter.3}% 33
-\BOOKMARK [1][-]{section.3.5}{New methodology}{chapter.3}% 34
-\BOOKMARK [2][-]{subsection.3.5.1}{Gathering data from donors}{section.3.5}% 35
-\BOOKMARK [2][-]{subsection.3.5.2}{Process partition}{section.3.5}% 36
-\BOOKMARK [2][-]{subsection.3.5.3}{Analytics}{section.3.5}% 37
-\BOOKMARK [0][-]{chapter.4}{System Design}{}% 38
-\BOOKMARK [1][-]{section.4.1}{Physical Design}{chapter.4}% 39
-\BOOKMARK [2][-]{subsection.4.1.1}{User Interface Design}{section.4.1}% 40
-\BOOKMARK [2][-]{subsection.4.1.2}{Database Design}{section.4.1}% 41
-\BOOKMARK [2][-]{subsection.4.1.3}{Modules}{section.4.1}% 42
-\BOOKMARK [1][-]{section.4.2}{Logical Design}{chapter.4}% 43
-\BOOKMARK [1][-]{section.4.3}{RESTful API}{chapter.4}% 44
-\BOOKMARK [2][-]{subsection.4.3.1}{UML Diagrams}{section.4.3}% 45
-\BOOKMARK [0][-]{chapter.5}{Testing}{}% 46
-\BOOKMARK [1][-]{section.5.1}{Testing Objectives}{chapter.5}% 47
-\BOOKMARK [1][-]{section.5.2}{Types of tests}{chapter.5}% 48
-\BOOKMARK [2][-]{subsection.5.2.1}{Unit Testing}{section.5.2}% 49
-\BOOKMARK [2][-]{subsection.5.2.2}{Integration Testing}{section.5.2}% 50
-\BOOKMARK [2][-]{subsection.5.2.3}{Functional Testing}{section.5.2}% 51
-\BOOKMARK [2][-]{subsection.5.2.4}{Acceptance Testing}{section.5.2}% 52
-\BOOKMARK [2][-]{subsection.5.2.5}{System Testing}{section.5.2}% 53
-\BOOKMARK [2][-]{subsection.5.2.6}{White Box Testing}{section.5.2}% 54
-\BOOKMARK [2][-]{subsection.5.2.7}{Black Box Testing}{section.5.2}% 55
-\BOOKMARK [2][-]{subsection.5.2.8}{Alpha Testing}{section.5.2}% 56
-\BOOKMARK [2][-]{subsection.5.2.9}{Beta Testing}{section.5.2}% 57
-\BOOKMARK [1][-]{section.5.3}{Tests Strategy and Approach}{chapter.5}% 58
-\BOOKMARK [2][-]{subsection.5.3.1}{Test Objective}{section.5.3}% 59
-\BOOKMARK [2][-]{subsection.5.3.2}{Features to be tested}{section.5.3}% 60
-\BOOKMARK [0][-]{chapter.6}{Conclusion}{}% 61
-\BOOKMARK [0][-]{chapter.7}{Future Enhancement}{}% 62
-\BOOKMARK [1][-]{section.7.1}{Exception rate}{chapter.7}% 63
-\BOOKMARK [1][-]{section.7.2}{Donor location}{chapter.7}% 64
-\BOOKMARK [1][-]{section.7.3}{Banks closet}{chapter.7}% 65
-\BOOKMARK [1][-]{section.7.4}{Notifications}{chapter.7}% 66
-\BOOKMARK [1][-]{section.7.5}{Register to digital}{chapter.7}% 67
-\BOOKMARK [0][-]{appendix.A}{Otsu Binarization Thresholding}{}% 68
-\BOOKMARK [1][-]{section.A.1}{The Mathematics}{appendix.A}% 69
-\BOOKMARK [1][-]{section.A.2}{The algorithm that can be implemented}{appendix.A}% 70
-\BOOKMARK [1][-]{section.A.3}{Availability}{appendix.A}% 71
+\BOOKMARK [1][-]{section.1.5}{Accomplishment}{chapter.1}% 15
+\BOOKMARK [0][-]{chapter.2}{LITERATURE SURVEY}{}% 16
+\BOOKMARK [1][-]{section.2.1}{Blood for sale: India\220s illegal \217red market\220}{chapter.2}% 17
+\BOOKMARK [1][-]{section.2.2}{Database Lifecycle}{chapter.2}% 18
+\BOOKMARK [1][-]{section.2.3}{Concepts of Database Management Systems}{chapter.2}% 19
+\BOOKMARK [1][-]{section.2.4}{The Ultimate Guide to SDLC}{chapter.2}% 20
+\BOOKMARK [1][-]{section.2.5}{ReactJS}{chapter.2}% 21
+\BOOKMARK [1][-]{section.2.6}{What Happens to Donated Blood}{chapter.2}% 22
+\BOOKMARK [1][-]{section.2.7}{MongoDB}{chapter.2}% 23
+\BOOKMARK [1][-]{section.2.8}{Foundations of Software Testing}{chapter.2}% 24
+\BOOKMARK [1][-]{section.2.9}{Box Detection Algorithm}{chapter.2}% 25
+\BOOKMARK [1][-]{section.2.10}{Offline Handwriting Recognition Using a Generic Algorithm}{chapter.2}% 26
+\BOOKMARK [0][-]{chapter.3}{System Analysis}{}% 27
+\BOOKMARK [1][-]{section.3.1}{Problem Definition}{chapter.3}% 28
+\BOOKMARK [1][-]{section.3.2}{Proposed System}{chapter.3}% 29
+\BOOKMARK [2][-]{subsection.3.2.1}{Advantages of Proposed System}{section.3.2}% 30
+\BOOKMARK [1][-]{section.3.3}{Requirements}{chapter.3}% 31
+\BOOKMARK [2][-]{subsection.3.3.1}{Hardware Requirements}{section.3.3}% 32
+\BOOKMARK [2][-]{subsection.3.3.2}{Software Requirements}{section.3.3}% 33
+\BOOKMARK [1][-]{section.3.4}{Issues in existing methodology}{chapter.3}% 34
+\BOOKMARK [1][-]{section.3.5}{New methodology}{chapter.3}% 35
+\BOOKMARK [2][-]{subsection.3.5.1}{Gathering data from donors}{section.3.5}% 36
+\BOOKMARK [2][-]{subsection.3.5.2}{Process partition}{section.3.5}% 37
+\BOOKMARK [2][-]{subsection.3.5.3}{Analytics}{section.3.5}% 38
+\BOOKMARK [0][-]{chapter.4}{System Design}{}% 39
+\BOOKMARK [1][-]{section.4.1}{Physical Design}{chapter.4}% 40
+\BOOKMARK [2][-]{subsection.4.1.1}{User Interface Design}{section.4.1}% 41
+\BOOKMARK [2][-]{subsection.4.1.2}{Database Design}{section.4.1}% 42
+\BOOKMARK [2][-]{subsection.4.1.3}{Modules}{section.4.1}% 43
+\BOOKMARK [1][-]{section.4.2}{Logical Design}{chapter.4}% 44
+\BOOKMARK [1][-]{section.4.3}{RESTful API}{chapter.4}% 45
+\BOOKMARK [2][-]{subsection.4.3.1}{UML Diagrams}{section.4.3}% 46
+\BOOKMARK [0][-]{chapter.5}{Testing}{}% 47
+\BOOKMARK [1][-]{section.5.1}{Testing Objectives}{chapter.5}% 48
+\BOOKMARK [1][-]{section.5.2}{Types of tests}{chapter.5}% 49
+\BOOKMARK [2][-]{subsection.5.2.1}{Unit Testing}{section.5.2}% 50
+\BOOKMARK [2][-]{subsection.5.2.2}{Integration Testing}{section.5.2}% 51
+\BOOKMARK [2][-]{subsection.5.2.3}{Functional Testing}{section.5.2}% 52
+\BOOKMARK [2][-]{subsection.5.2.4}{Acceptance Testing}{section.5.2}% 53
+\BOOKMARK [2][-]{subsection.5.2.5}{System Testing}{section.5.2}% 54
+\BOOKMARK [2][-]{subsection.5.2.6}{White Box Testing}{section.5.2}% 55
+\BOOKMARK [2][-]{subsection.5.2.7}{Black Box Testing}{section.5.2}% 56
+\BOOKMARK [2][-]{subsection.5.2.8}{Alpha Testing}{section.5.2}% 57
+\BOOKMARK [2][-]{subsection.5.2.9}{Beta Testing}{section.5.2}% 58
+\BOOKMARK [1][-]{section.5.3}{Tests Strategy and Approach}{chapter.5}% 59
+\BOOKMARK [2][-]{subsection.5.3.1}{Test Objective}{section.5.3}% 60
+\BOOKMARK [2][-]{subsection.5.3.2}{Features to be tested}{section.5.3}% 61
+\BOOKMARK [0][-]{chapter.6}{Conclusion}{}% 62
+\BOOKMARK [0][-]{chapter.7}{Future Enhancement}{}% 63
+\BOOKMARK [1][-]{section.7.1}{Exception rate}{chapter.7}% 64
+\BOOKMARK [1][-]{section.7.2}{Donor location}{chapter.7}% 65
+\BOOKMARK [1][-]{section.7.3}{Banks closet}{chapter.7}% 66
+\BOOKMARK [1][-]{section.7.4}{Notifications}{chapter.7}% 67
+\BOOKMARK [1][-]{section.7.5}{Register to digital}{chapter.7}% 68
+\BOOKMARK [0][-]{appendix.A}{Otsu Binarization Thresholding}{}% 69
+\BOOKMARK [1][-]{section.A.1}{The Mathematics}{appendix.A}% 70
+\BOOKMARK [1][-]{section.A.2}{The algorithm that can be implemented}{appendix.A}% 71
+\BOOKMARK [1][-]{section.A.3}{Availability}{appendix.A}% 72

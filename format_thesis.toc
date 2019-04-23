@@ -22,6 +22,7 @@
 \contentsline {subsubsection}{c. Distributed Database System}{6}{figure.caption.22}
 \contentsline {section}{\numberline {1.3}Blood Bank Inventory Management}{7}{section.1.3}
 \contentsline {section}{\numberline {1.4}Importance of shift}{7}{section.1.4}
+\contentsline {section}{\numberline {1.5}Accomplishment}{8}{section.1.5}
 \contentsline {chapter}{\numberline {2}LITERATURE SURVEY}{9}{chapter.2}
 \contentsline {section}{\numberline {2.1}Blood for sale: India\IeC {\textquoteright }s illegal \IeC {\textquoteleft }red market\IeC {\textquoteright }}{9}{section.2.1}
 \contentsline {section}{\numberline {2.2}Database Lifecycle}{9}{section.2.2}

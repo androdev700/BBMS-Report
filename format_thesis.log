@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.4.11)  22 APR 2019 20:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.4.11)  24 APR 2019 02:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1203,92 +1203,97 @@ LaTeX Info: Redefining \nameref on input line 35.
 \openout5 = `format_thesis.out'.
 
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 68.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 67.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 68.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 67.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <14.4> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 68.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 67.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 68.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 67.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <16> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 68.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 67.
 
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./SRM.pdf): PDF inclusion: f
 ound PDF version <1.6>, but at most version <1.5> allowed
-<SRM.pdf, id=316, 806.05138pt x 417.60016pt>
+<SRM.pdf, id=320, 806.05138pt x 417.60016pt>
 File: SRM.pdf Graphic file (type pdf)
 <use SRM.pdf>
-Package pdftex.def Info: SRM.pdf  used on input line 68.
+Package pdftex.def Info: SRM.pdf  used on input line 67.
 (pdftex.def)             Requested size: 120.90248pt x 62.63731pt.
 [0
 
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./SRM.p
 df>]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <20.74> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 68.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 67.
 
-Overfull \hbox (8.57768pt too wide) in paragraph at lines 68--68
-\T1/ptm/b/n/14.4 GRATED BLOOD BANK MAN-AGE-MENT SYS-TEM \T1/ptm/m/n/14.4 '' is 
-the bonafide
+Overfull \hbox (12.39429pt too wide) in paragraph at lines 67--67
+\T1/ptm/b/n/14.4 BANK MAN-AGE-MENT SYS-TEM WITH IN-TE-GRATED DE-CI-SION
  []
 
 
-Overfull \hbox (97.32878pt too wide) in paragraph at lines 68--68
-\T1/ptm/b/n/14.4 RA-JPUT [Reg No: RA1511008010237], REEZ PA-TEL [Reg No: RA1511
-008010255],
+Overfull \hbox (33.49496pt too wide) in paragraph at lines 67--67
+\T1/ptm/b/n/14.4 No: RA1511008010221], ADITYA RA-JPUT [Reg No: RA1511008010237]
+,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
+Overfull \hbox (12.68692pt too wide) in paragraph at lines 67--67
+\T1/ptm/b/n/14.4 RA1511008010261], SHREYA DHAGA [Reg No: RA1511008010295]\T1/pt
+m/m/n/14.4 '',
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
 
  []
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 68.
+LaTeX Font Info:    Try loading font information for U+msa on input line 67.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 68.
+LaTeX Font Info:    Try loading font information for U+msb on input line 67.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+wasy on input line 68.
+LaTeX Font Info:    Try loading font information for U+wasy on input line 67.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/wasysym/uwasy.fd
 File: uwasy.fd 2003/10/30 v2.0 Wasy-2 symbol font definitions
 )
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
 
  []
 
 
-Overfull \hbox (23.1845pt too wide) in paragraph at lines 68--69
+Overfull \hbox (23.1845pt too wide) in paragraph at lines 67--68
 []|  $[]$ |  $[]$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 68--69
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
 
  []
 
@@ -1324,41 +1329,41 @@ Underfull \hbox (badness 10000) in paragraph at lines 68--69
 ]
 CHAPTER 1.
 Package acronym Info: Label `acro:HIV' newly defined as it shall be overridden
-although it is yet undefined on input line 215.
+although it is yet undefined on input line 214.
 Package acronym Info: Label `acro:HEP B' newly defined as it shall be overridde
 n
-although it is yet undefined on input line 215.
+although it is yet undefined on input line 214.
 Package acronym Info: Label `acro:HEP C' newly defined as it shall be overridde
 n
-although it is yet undefined on input line 215.
+although it is yet undefined on input line 214.
 Package acronym Info: Label `acro:MP' newly defined as it shall be overridden
-although it is yet undefined on input line 215.
+although it is yet undefined on input line 214.
 Package acronym Info: Label `acro:VDRL' newly defined as it shall be overridden
 
-although it is yet undefined on input line 215.
+although it is yet undefined on input line 214.
 [1
 
 
 ]
 Package acronym Info: Label `acro:ACID' newly defined as it shall be overridden
 
-although it is yet undefined on input line 219.
+although it is yet undefined on input line 218.
 Package acronym Info: Label `acro:SQL' newly defined as it shall be overridden
-although it is yet undefined on input line 225.
-<Fields.png, id=549, 136.51pt x 81.30376pt>
+although it is yet undefined on input line 224.
+<Fields.png, id=554, 136.51pt x 81.30376pt>
 File: Fields.png Graphic file (type png)
 <use Fields.png>
-Package pdftex.def Info: Fields.png  used on input line 228.
+Package pdftex.def Info: Fields.png  used on input line 227.
 (pdftex.def)             Requested size: 136.50966pt x 81.30354pt.
-<Record.png, id=551, 121.45375pt x 102.3825pt>
+<Record.png, id=556, 121.45375pt x 102.3825pt>
 File: Record.png Graphic file (type png)
 <use Record.png>
-Package pdftex.def Info: Record.png  used on input line 233.
+Package pdftex.def Info: Record.png  used on input line 232.
 (pdftex.def)             Requested size: 121.45343pt x 102.38225pt.
-<Table.png, id=552, 123.46124pt x 62.2325pt>
+<Table.png, id=557, 123.46124pt x 62.2325pt>
 File: Table.png Graphic file (type png)
 <use Table.png>
-Package pdftex.def Info: Table.png  used on input line 238.
+Package pdftex.def Info: Table.png  used on input line 237.
 (pdftex.def)             Requested size: 123.46092pt x 62.23235pt.
 
 
@@ -1367,54 +1372,54 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<OODB.png, id=553, 373.395pt x 337.26pt>
+<OODB.png, id=558, 373.395pt x 337.26pt>
 File: OODB.png Graphic file (type png)
 <use OODB.png>
-Package pdftex.def Info: OODB.png  used on input line 245.
+Package pdftex.def Info: OODB.png  used on input line 244.
 (pdftex.def)             Requested size: 261.37471pt x 236.08038pt.
 [2 <./Fields.png>]
-<ORD.png, id=561, 201.75375pt x 183.68625pt>
+<ORD.png, id=566, 201.75375pt x 183.68625pt>
 File: ORD.png Graphic file (type png)
 <use ORD.png>
-Package pdftex.def Info: ORD.png  used on input line 252.
+Package pdftex.def Info: ORD.png  used on input line 251.
 (pdftex.def)             Requested size: 201.75325pt x 183.68578pt.
  [3 <./Record.png> <./Table.png> <./OODB.png>]
-<HierarchialDB.png, id=569, 423.5825pt x 232.87pt>
+<HierarchialDB.png, id=574, 423.5825pt x 232.87pt>
 File: HierarchialDB.png Graphic file (type png)
 <use HierarchialDB.png>
-Package pdftex.def Info: HierarchialDB.png  used on input line 259.
+Package pdftex.def Info: HierarchialDB.png  used on input line 258.
 (pdftex.def)             Requested size: 296.50572pt x 163.00787pt.
 
-Overfull \hbox (1.54199pt too wide) in paragraph at lines 256--262
+Overfull \hbox (1.54199pt too wide) in paragraph at lines 255--261
 \T1/ptm/m/n/12 A hi-er-ar-chi-cal database is a database that shows a one-to-ma
 ny re-la-tion-ship of a database
  []
 
-<NetworkDB.png, id=570, 372.39125pt x 312.16624pt>
+<NetworkDB.png, id=575, 372.39125pt x 312.16624pt>
 File: NetworkDB.png Graphic file (type png)
 <use NetworkDB.png>
-Package pdftex.def Info: NetworkDB.png  used on input line 266.
+Package pdftex.def Info: NetworkDB.png  used on input line 265.
 (pdftex.def)             Requested size: 260.67209pt x 218.51488pt.
 [4 <./ORD.png> <./HierarchialDB.png>]
-<CenterslizedDB.png, id=577, 323.2075pt x 222.8325pt>
+<CenterslizedDB.png, id=582, 323.2075pt x 222.8325pt>
 File: CenterslizedDB.png Graphic file (type png)
 <use CenterslizedDB.png>
-Package pdftex.def Info: CenterslizedDB.png  used on input line 279.
+Package pdftex.def Info: CenterslizedDB.png  used on input line 278.
 (pdftex.def)             Requested size: 226.2437pt x 155.98167pt.
  [5 <./NetworkDB.png>]
-<DistributedDBMS.png, id=583, 323.2075pt x 261.97874pt>
+<DistributedDBMS.png, id=588, 323.2075pt x 261.97874pt>
 File: DistributedDBMS.png Graphic file (type png)
 <use DistributedDBMS.png>
-Package pdftex.def Info: DistributedDBMS.png  used on input line 288.
+Package pdftex.def Info: DistributedDBMS.png  used on input line 287.
 (pdftex.def)             Requested size: 226.2437pt x 183.38387pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<BBInventoryManagement.png, id=584, 545.03625pt x 147.55125pt>
+<BBInventoryManagement.png, id=589, 545.03625pt x 147.55125pt>
 File: BBInventoryManagement.png Graphic file (type png)
 <use BBInventoryManagement.png>
-Package pdftex.def Info: BBInventoryManagement.png  used on input line 295.
+Package pdftex.def Info: BBInventoryManagement.png  used on input line 294.
 (pdftex.def)             Requested size: 381.52278pt x 103.28516pt.
 [6 <./CenterslizedDB.png>] [7 <./DistributedDBMS.png> <./BBInventoryManagement.
 png>] [8]
@@ -1422,200 +1427,200 @@ CHAPTER 2.
 [9
 
 ] [10] [11]
-Overfull \hbox (1.00287pt too wide) in paragraph at lines 320--321
+Overfull \hbox (1.00287pt too wide) in paragraph at lines 322--323
 \T1/ptm/m/n/12 Software Test-ing checks whether the ac-tual re-sults match the 
 ex-pected out-comes thereby
  []
 
 [12]
 Package acronym Info: Label `acro:NN' newly defined as it shall be overridden
-although it is yet undefined on input line 324.
+although it is yet undefined on input line 326.
  [13]
 CHAPTER 3.
 [14
 
 ] [15]
 Package acronym Info: Label `acro:PUS' newly defined as it shall be overridden
-although it is yet undefined on input line 367.
+although it is yet undefined on input line 369.
  [16] [17]
 CHAPTER 4.
 [18
 
 ]
-<wireframe1.png, id=686, 1927.2pt x 1084.05pt>
+<wireframe1.png, id=691, 1927.2pt x 1084.05pt>
 File: wireframe1.png Graphic file (type png)
 <use wireframe1.png>
-Package pdftex.def Info: wireframe1.png  used on input line 388.
+Package pdftex.def Info: wireframe1.png  used on input line 390.
 (pdftex.def)             Requested size: 385.43318pt x 216.80615pt.
-<wireframe2.png, id=688, 1927.2pt x 1084.05pt>
+<wireframe2.png, id=693, 1927.2pt x 1084.05pt>
 File: wireframe2.png Graphic file (type png)
 <use wireframe2.png>
-Package pdftex.def Info: wireframe2.png  used on input line 394.
+Package pdftex.def Info: wireframe2.png  used on input line 396.
 (pdftex.def)             Requested size: 385.43318pt x 216.80615pt.
-<wireframe3.png, id=689, 1927.2pt x 1084.05pt>
+<wireframe3.png, id=694, 1927.2pt x 1084.05pt>
 File: wireframe3.png Graphic file (type png)
 <use wireframe3.png>
-Package pdftex.def Info: wireframe3.png  used on input line 400.
+Package pdftex.def Info: wireframe3.png  used on input line 402.
 (pdftex.def)             Requested size: 385.43318pt x 216.80615pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 Package acronym Info: Label `acro:KPI' newly defined as it shall be overridden
-although it is yet undefined on input line 403.
+although it is yet undefined on input line 405.
 [19 <./wireframe1.png> <./wireframe2.png>]
 Package acronym Info: Label `acro:DOB' newly defined as it shall be overridden
-although it is yet undefined on input line 405.
+although it is yet undefined on input line 407.
 
-Underfull \hbox (badness 10000) in paragraph at lines 408--409
+Underfull \hbox (badness 10000) in paragraph at lines 410--411
 
  []
 
 [20 <./wireframe3.png>]
-Overfull \hbox (19.73529pt too wide) in paragraph at lines 413--421
+Overfull \hbox (19.73529pt too wide) in paragraph at lines 415--423
  [] 
  []
 
-<excel.png, id=709, 628.84938pt x 552.0625pt>
+<excel.png, id=714, 628.84938pt x 552.0625pt>
 File: excel.png Graphic file (type png)
 <use excel.png>
-Package pdftex.def Info: excel.png  used on input line 429.
+Package pdftex.def Info: excel.png  used on input line 431.
 (pdftex.def)             Requested size: 408.74725pt x 358.83636pt.
-<register_page.jpeg, id=710, 683.55376pt x 934.49126pt>
+<register_page.jpeg, id=715, 683.55376pt x 934.49126pt>
 File: register_page.jpeg Graphic file (type jpg)
 <use register_page.jpeg>
-Package pdftex.def Info: register_page.jpeg  used on input line 434.
+Package pdftex.def Info: register_page.jpeg  used on input line 436.
 (pdftex.def)             Requested size: 430.64114pt x 588.73262pt.
 
-Overfull \hbox (13.80826pt too wide) in paragraph at lines 434--435
+Overfull \hbox (13.80826pt too wide) in paragraph at lines 436--437
  [][] 
  []
 
 [21]
-<mongo_compass.png, id=716, 1336.995pt x 1006.76125pt>
+<mongo_compass.png, id=721, 1336.995pt x 1006.76125pt>
 File: mongo_compass.png Graphic file (type png)
 <use mongo_compass.png>
-Package pdftex.def Info: mongo_compass.png  used on input line 439.
+Package pdftex.def Info: mongo_compass.png  used on input line 441.
 (pdftex.def)             Requested size: 427.84714pt x 322.17018pt.
 
-Overfull \hbox (11.01425pt too wide) in paragraph at lines 439--440
+Overfull \hbox (11.01425pt too wide) in paragraph at lines 441--442
  [][] 
  []
 
 [22 <./excel.png>] [23 <./register_page.jpeg>]
 Package acronym Info: Label `acro:JSON' newly defined as it shall be overridden
 
-although it is yet undefined on input line 442.
-<search_address.jpeg, id=727, 402.50375pt x 299.1175pt>
+although it is yet undefined on input line 444.
+<search_address.jpeg, id=732, 402.50375pt x 299.1175pt>
 File: search_address.jpeg Graphic file (type jpg)
 <use search_address.jpeg>
-Package pdftex.def Info: search_address.jpeg  used on input line 449.
+Package pdftex.def Info: search_address.jpeg  used on input line 451.
 (pdftex.def)             Requested size: 241.5041pt x 179.47188pt.
-<search_blood_bank.jpeg, id=728, 419.5675pt x 216.81pt>
+<search_blood_bank.jpeg, id=733, 419.5675pt x 216.81pt>
 File: search_blood_bank.jpeg Graphic file (type jpg)
 <use search_blood_bank.jpeg>
-Package pdftex.def Info: search_blood_bank.jpeg  used on input line 454.
+Package pdftex.def Info: search_blood_bank.jpeg  used on input line 456.
 (pdftex.def)             Requested size: 251.74243pt x 130.08699pt.
  [24 <./mongo_compass.png>]
-<lookup_user.jpeg, id=735, 491.8375pt x 391.4625pt>
+<lookup_user.jpeg, id=740, 491.8375pt x 391.4625pt>
 File: lookup_user.jpeg Graphic file (type jpg)
 <use lookup_user.jpeg>
-Package pdftex.def Info: lookup_user.jpeg  used on input line 462.
+Package pdftex.def Info: lookup_user.jpeg  used on input line 464.
 (pdftex.def)             Requested size: 295.10477pt x 234.8793pt.
 
 [25 <./search_address.jpeg> <./search_blood_bank.jpeg>]
-<input_blood_discard_rec.jpeg, id=742, 452.69125pt x 273.02pt>
+<input_blood_discard_rec.jpeg, id=747, 452.69125pt x 273.02pt>
 File: input_blood_discard_rec.jpeg Graphic file (type jpg)
 <use input_blood_discard_rec.jpeg>
-Package pdftex.def Info: input_blood_discard_rec.jpeg  used on input line 470.
+Package pdftex.def Info: input_blood_discard_rec.jpeg  used on input line 472.
 (pdftex.def)             Requested size: 271.61684pt x 163.81326pt.
-<input_blood_donation.jpeg, id=743, 412.54124pt x 242.9075pt>
+<input_blood_donation.jpeg, id=748, 412.54124pt x 242.9075pt>
 File: input_blood_donation.jpeg Graphic file (type jpg)
 <use input_blood_donation.jpeg>
-Package pdftex.def Info: input_blood_donation.jpeg  used on input line 475.
+Package pdftex.def Info: input_blood_donation.jpeg  used on input line 477.
 (pdftex.def)             Requested size: 247.52666pt x 145.7456pt.
-<input_blood_input_record.jpeg, id=744, 429.605pt x 264.99pt>
+<input_blood_input_record.jpeg, id=749, 429.605pt x 264.99pt>
 File: input_blood_input_record.jpeg Graphic file (type jpg)
 <use input_blood_input_record.jpeg>
-Package pdftex.def Info: input_blood_input_record.jpeg  used on input line 480.
+Package pdftex.def Info: input_blood_input_record.jpeg  used on input line 482.
 
 (pdftex.def)             Requested size: 257.76498pt x 158.99522pt.
  [26 <./lookup_user.jpeg> <./input_blood_discard_rec.jpeg>]
-<input_donor_rejection.jpeg, id=749, 435.6275pt x 299.1175pt>
+<input_donor_rejection.jpeg, id=754, 435.6275pt x 299.1175pt>
 File: input_donor_rejection.jpeg Graphic file (type jpg)
 <use input_donor_rejection.jpeg>
-Package pdftex.def Info: input_donor_rejection.jpeg  used on input line 485.
+Package pdftex.def Info: input_donor_rejection.jpeg  used on input line 487.
 (pdftex.def)             Requested size: 261.37851pt x 179.47188pt.
-<output_stock_reg.jpeg, id=750, 370.38374pt x 216.81pt>
+<output_stock_reg.jpeg, id=755, 370.38374pt x 216.81pt>
 File: output_stock_reg.jpeg Graphic file (type jpg)
 <use output_stock_reg.jpeg>
-Package pdftex.def Info: output_stock_reg.jpeg  used on input line 493.
+Package pdftex.def Info: output_stock_reg.jpeg  used on input line 495.
 (pdftex.def)             Requested size: 222.23195pt x 130.08699pt.
  [27 <./input_blood_donation.jpeg> <./input_blood_input_record.jpeg> <./input_d
 onor_rejection.jpeg>]
-<pus_blood_bags.jpeg, id=756, 504.88625pt x 605.26125pt>
+<pus_blood_bags.jpeg, id=761, 504.88625pt x 605.26125pt>
 File: pus_blood_bags.jpeg Graphic file (type jpg)
 <use pus_blood_bags.jpeg>
-Package pdftex.def Info: pus_blood_bags.jpeg  used on input line 501.
+Package pdftex.def Info: pus_blood_bags.jpeg  used on input line 503.
 (pdftex.def)             Requested size: 302.93407pt x 363.15953pt.
-<pus_consumables.jpeg, id=757, 441.65pt x 164.615pt>
+<pus_consumables.jpeg, id=762, 441.65pt x 164.615pt>
 File: pus_consumables.jpeg Graphic file (type jpg)
 <use pus_consumables.jpeg>
-Package pdftex.def Info: pus_consumables.jpeg  used on input line 506.
+Package pdftex.def Info: pus_consumables.jpeg  used on input line 508.
 (pdftex.def)             Requested size: 264.99203pt x 98.76976pt.
  [28 <./output_stock_reg.jpeg>]
-<pus_chemical.jpeg, id=762, 491.8375pt x 502.87875pt>
+<pus_chemical.jpeg, id=767, 491.8375pt x 502.87875pt>
 File: pus_chemical.jpeg Graphic file (type jpg)
 <use pus_chemical.jpeg>
-Package pdftex.def Info: pus_chemical.jpeg  used on input line 511.
+Package pdftex.def Info: pus_chemical.jpeg  used on input line 513.
 (pdftex.def)             Requested size: 270.51146pt x 276.58417pt.
-<pus_kits.jpeg, id=763, 500.87125pt x 548.0475pt>
+<pus_kits.jpeg, id=768, 500.87125pt x 548.0475pt>
 File: pus_kits.jpeg Graphic file (type jpg)
 <use pus_kits.jpeg>
-Package pdftex.def Info: pus_kits.jpeg  used on input line 516.
+Package pdftex.def Info: pus_kits.jpeg  used on input line 518.
 (pdftex.def)             Requested size: 275.48003pt x 301.42705pt.
  [29 <./pus_blood_bags.jpeg> <./pus_consumables.jpeg>]
-<pus_serum.jpeg, id=768, 490.83376pt x 683.55376pt>
+<pus_serum.jpeg, id=773, 490.83376pt x 683.55376pt>
 File: pus_serum.jpeg Graphic file (type jpg)
 <use pus_serum.jpeg>
-Package pdftex.def Info: pus_serum.jpeg  used on input line 521.
+Package pdftex.def Info: pus_serum.jpeg  used on input line 523.
 (pdftex.def)             Requested size: 294.50252pt x 410.13542pt.
  [30 <./pus_chemical.jpeg> <./pus_kits.jpeg>]
 Package acronym Info: Label `acro:API' newly defined as it shall be overridden
-although it is yet undefined on input line 527.
+although it is yet undefined on input line 529.
 Package acronym Info: Label `acro:HTTP' newly defined as it shall be overridden
 
-although it is yet undefined on input line 527.
+although it is yet undefined on input line 529.
 Package acronym Info: Label `acro:REST' newly defined as it shall be overridden
 
-although it is yet undefined on input line 527.
+although it is yet undefined on input line 529.
 
-Overfull \hbox (1.11145pt too wide) in paragraph at lines 527--528
+Overfull \hbox (1.11145pt too wide) in paragraph at lines 529--530
 \T1/ptm/m/n/12 data. They are usu-ally know as REST-ful web ser-vice which is b
 ased on [][][]Representational
  []
 
 [31 <./pus_serum.jpeg>]
-<usecase.png, id=786, 529.98pt x 532.99126pt>
+<usecase.png, id=791, 529.98pt x 532.99126pt>
 File: usecase.png Graphic file (type png)
 <use usecase.png>
-Package pdftex.def Info: usecase.png  used on input line 534.
+Package pdftex.def Info: usecase.png  used on input line 536.
 (pdftex.def)             Requested size: 370.98346pt x 373.09134pt.
-<sequence.png, id=787, 747.79375pt x 623.32875pt>
+<sequence.png, id=792, 747.79375pt x 623.32875pt>
 File: sequence.png Graphic file (type png)
 <use sequence.png>
-Package pdftex.def Info: sequence.png  used on input line 541.
+Package pdftex.def Info: sequence.png  used on input line 543.
 (pdftex.def)             Requested size: 448.6797pt x 374.00014pt.
 
-Overfull \hbox (31.84682pt too wide) in paragraph at lines 541--542
+Overfull \hbox (31.84682pt too wide) in paragraph at lines 543--544
  [][] 
  []
 
 [32 <./usecase.png>]
-<flow_diag.png, id=794, 694.595pt x 415.5525pt>
+<flow_diag.png, id=799, 694.595pt x 415.5525pt>
 File: flow_diag.png Graphic file (type png)
 <use flow_diag.png>
-Package pdftex.def Info: flow_diag.png  used on input line 548.
+Package pdftex.def Info: flow_diag.png  used on input line 550.
 (pdftex.def)             Requested size: 416.76022pt x 249.33342pt.
  [33 <./sequence.png>] [34 <./flow_diag.png>]
 CHAPTER 5.
@@ -1625,7 +1630,7 @@ CHAPTER 5.
 CHAPTER 6.
 Package acronym Info: Label `acro:MERN' newly defined as it shall be overridden
 
-although it is yet undefined on input line 607.
+although it is yet undefined on input line 609.
 [39
 
 ]
@@ -1668,20 +1673,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 64--68
 [45
 
 ]) [46]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 695.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 695.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 697.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 697.
  (./format_thesis.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 695.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 695.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 697.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 697.
 Package rerunfilecheck Info: File `format_thesis.out' has not changed.
-(rerunfilecheck)             Checksum: B03965569CC891034FF8307CF7E67D18;4750.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 695.
+(rerunfilecheck)             Checksum: BCE20070F582378B5B1DC4148D92312E;4811.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 697.
  ) 
 Here is how much of TeX's memory you used:
- 32616 strings out of 492649
- 771939 string characters out of 6129622
- 955273 words of memory out of 5000000
- 35633 multiletter control sequences out of 15000+600000
+ 32618 strings out of 492649
+ 771963 string characters out of 6129622
+ 955272 words of memory out of 5000000
+ 35634 multiletter control sequences out of 15000+600000
  41008 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,8n,96p,1381b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1702,10 +1707,10 @@ onts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1
 /urw/times/utmbi8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/time
 s/utmr8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/times/utmri8a.
 pfb>
-Output written on format_thesis.pdf (58 pages, 2768654 bytes).
+Output written on format_thesis.pdf (58 pages, 2768803 bytes).
 PDF statistics:
- 1004 PDF objects out of 1200 (max. 8388607)
- 850 compressed objects within 9 object streams
- 221 named destinations out of 1000 (max. 500000)
- 842 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1009 PDF objects out of 1200 (max. 8388607)
+ 855 compressed objects within 9 object streams
+ 222 named destinations out of 1000 (max. 500000)
+ 850 words of extra memory for PDF output out of 10000 (max. 10000000)
 
