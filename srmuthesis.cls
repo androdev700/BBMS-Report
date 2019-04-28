@@ -223,7 +223,7 @@ a4paper,left=1.5in,right=1in,top=1in,bottom=1in,
   \vspace*{0.25in}
   %\centerline{\psfig{figure=emblem.ps}}
 %  \centerline{\includegraphics{iitm.eps}}
-  \centerline{\includegraphics[scale=0.15]{SRM}}
+  \centerline{\includegraphics[scale=.4]{srmist}}
   \vspace*{-0.15in}
   \begin{center}
     {\large S.R.M. Nagar, Kattankulathur, Kancheepuram District \par}
@@ -258,7 +258,7 @@ a4paper,left=1.5in,right=1in,top=1in,bottom=1in,
    %
    \def\certificate{%% A preliminary chapter
      \clearpage
-     \centerline{\LARGE \bf SRM UNIVERSITY}
+     \centerline{\LARGE \bf SRM INSTITUTE OF SCIENCE AND TECHNOLOGY}
      \centerline{(Under Section 3 of UGC Act, 1956)}
       \vskip 25pt
      \centerline{\bigsize \bf BONAFIDE CERTIFICATE}
